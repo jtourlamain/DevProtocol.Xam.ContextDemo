@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Context Demo, Click Me!</string>
+	<string name="app_name">DevProtocol.Xam.ContextDemo</string>
+</resources>
