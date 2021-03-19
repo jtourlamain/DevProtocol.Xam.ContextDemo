@@ -10,7 +10,7 @@ A Xamarin solution to demo the SynchronizationContext
 - Jan Tourlamain
 
 ## More info
-[http://www.devprotocol.com/how-the-synchronizationcontext-makes-your-live-easier](http://www.devprotocol.com/how-the-synchronizationcontext-makes-your-live-easier)
+[https://www.devprotocol.com/2016/05/30/how-the-synchronizationcontext-makes-your-live-easier.html](https://www.devprotocol.com/2016/05/30/how-the-synchronizationcontext-makes-your-live-easier.html)
 
 ## License
 Licensed under MIT
